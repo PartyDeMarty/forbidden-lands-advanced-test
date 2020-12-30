@@ -3,6 +3,8 @@
   "title": "Forbidden Lands Advanced Automated Tests",
   "description": "A module to automated tests such as damage, bane, and willpower.",
   "author": "PartyDeMarty",
+  "manifest": "https://raw.githubusercontent.com/PartyDeMarty/forbidden-lands-advanced-test/main/module.json"
+  "download": "https://github.com/PartyDeMarty/forbidden-lands-advanced-test/archive/main.zip"
   "version": "0.0.1",
   "minimumCoreVersion": "0.0.1"
 }
